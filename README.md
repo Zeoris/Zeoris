@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Zeoris
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Zeoris/Zeoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my documentation on my path to cybersecurity.
 
-Here are some ideas to get you started:
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+
+
+## Tools
+
+
+### Network
+
+
+### Endpoint
+
+
+### SIEM
+
+
+## Certifications
+
+
+## Projects
+- Home Lab
